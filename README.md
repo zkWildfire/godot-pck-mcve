@@ -1,5 +1,7 @@
 > Verified on Windows 10 v21H2 and Godot v4.0.2 (C#)
 
+Tracked at https://github.com/godotengine/godot/issues/76074
+
 # Steps
 0. Clone the repository
 1. Open the mod project in Godot (`GameMod/project.godot`)
